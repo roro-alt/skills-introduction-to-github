@@ -1,0 +1,17 @@
+# This is a basic Python program
+
+# A function to greet the user
+def greet(name):
+    print(f"Hello, {kenneth}!")
+
+# Ask the user for their name
+user_name = input("What's your name? ")
+
+# Call the greet function with the user's name
+greet(user_name)
+
+# Simple addition
+num1 = 5
+num2 = 10
+sum = num1 + num2
+print(f"The sum of {num1} and {num2} is {sum}.")
